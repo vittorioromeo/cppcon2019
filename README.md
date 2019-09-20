@@ -5,7 +5,7 @@ Repository for my CppCon 2019 talks.
 
 * [Abstract](https://cppcon2019.sched.com/event/Sftk/higher-order-functions-in-modern-c-existing-techniques-and-functionref)
 
-* [~Slides~](https://github.com/SuperV1234/cppcon2019/blob/master/higher_order_functions_and_function_ref/slides.pdf)
+* [Slides](https://github.com/SuperV1234/cppcon2019/blob/master/higher_order_functions_and_function_ref/slides.pdf)
 
 * [~YouTube video~](TODO)
 
