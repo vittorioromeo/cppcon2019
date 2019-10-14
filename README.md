@@ -7,7 +7,7 @@ Repository for my CppCon 2019 talks.
 
 * [Slides](https://github.com/SuperV1234/cppcon2019/blob/master/higher_order_functions_and_function_ref/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=eYEPsMZZ2LY)
 
 ## Fixing C++ with Epochs
 
