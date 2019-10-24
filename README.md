@@ -15,5 +15,10 @@ Repository for my CppCon 2019 talks.
 
 * [Slides](https://github.com/SuperV1234/cppcon2019/blob/master/fixing_cpp_with_epochs/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=PFdKFoQxRqM)
 
+## Making sense of terrible template errors with `camomilla`
+
+* Read [this article](https://vittorioromeo.info/index/blog/2016_camomilla_released.html) for context
+
+* [YouTube video](https://www.youtube.com/watch?v=3dUZn3eloWE)
